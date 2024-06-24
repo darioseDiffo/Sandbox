@@ -1,4 +1,4 @@
-Name: Mariken de Wit
-Country: the Netherlands
-Institution: Wageningen University & Research
-Research interest: mosquito-borne diseases, metapopulation models, Bayesian inference
+Name: Annette Dariose DIFFO MBOUDJIHO
+Country: Cameroon
+Institution: Stellenbosch University & AIMS
+Research interest: Analysis, Modelling, Simulation, Bayesian inference
